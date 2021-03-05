@@ -1,4 +1,4 @@
-Crea una rama de master, el nombre de su rama debe tener la siguiente estructura:
+Crea una rama de main, el nombre de su rama debe tener la siguiente estructura:
 ch_nombre_apellidoPaterno_appelidoMaterno
 ejemplo: ch_angel_perez_perez
 
