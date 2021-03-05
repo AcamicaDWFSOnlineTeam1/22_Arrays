@@ -7,7 +7,7 @@ git clone https://github.com/AcamicaDWFSOnlineTeam1/22_Arrays.git
 
 Cambiarse al directorio del repositorio descargado:
 ```
-cd 21_Ciclos_Estructura_Pseudocodigo_diagramas_flujo
+cd 22_Arrays
 ```
 
 Mostrar el código descargado en visual studio code:
