@@ -2,7 +2,7 @@
 
 Clonar el repositorio en local:
 ```
-git clone https://github.com/AcamicaDWFSOnlineTeam1/21_Ciclos_Estructura_Pseudocodigo_diagramas_flujo.git
+git clone https://github.com/AcamicaDWFSOnlineTeam1/22_Arrays.git
 ```
 
 Cambiarse al directorio del repositorio descargado:
